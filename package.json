@@ -1,0 +1,17 @@
+{
+  "name": "device_watcher",
+  "version": "1.0.0",
+  "main": "build/app.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^3.8.3"
+  },
+  "dependencies": {
+    "@types/node": "^14.0.13",
+    "axios": "^0.19.2",
+    "fs": "^0.0.1-security"
+  }
+}
